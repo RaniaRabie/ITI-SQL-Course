@@ -1,0 +1,10 @@
+E:\.Net ITI Training\Backend\Database ITI - SQL Server ITI - eng-rami\Queries\Database_Day10_SQL_CLR\Database_Day10_SQL_CLR\bin\Debug\Database_Day10_SQL_CLR.dacpac
+E:\.Net ITI Training\Backend\Database ITI - SQL Server ITI - eng-rami\Queries\Database_Day10_SQL_CLR\Database_Day10_SQL_CLR\bin\Debug\Database_Day10_SQL_CLR.dll
+E:\.Net ITI Training\Backend\Database ITI - SQL Server ITI - eng-rami\Queries\Database_Day10_SQL_CLR\Database_Day10_SQL_CLR\bin\Debug\Database_Day10_SQL_CLR.pdb
+E:\.Net ITI Training\Backend\Database ITI - SQL Server ITI - eng-rami\Queries\Database_Day10_SQL_CLR\Database_Day10_SQL_CLR\obj\Debug\Database_Day10_SQL_CLR.sqlproj.AssemblyReference.cache
+E:\.Net ITI Training\Backend\Database ITI - SQL Server ITI - eng-rami\Queries\Database_Day10_SQL_CLR\Database_Day10_SQL_CLR\obj\Debug\Database_Day10_SQL_CLR.dll
+E:\.Net ITI Training\Backend\Database ITI - SQL Server ITI - eng-rami\Queries\Database_Day10_SQL_CLR\Database_Day10_SQL_CLR\obj\Debug\Database_Day10_SQL_CLR.pdb
+E:\.Net ITI Training\Backend\Database ITI - SQL Server ITI - eng-rami\Queries\Database_Day10_SQL_CLR\Database_Day10_SQL_CLR\obj\Debug\Model.xml
+E:\.Net ITI Training\Backend\Database ITI - SQL Server ITI - eng-rami\Queries\Database_Day10_SQL_CLR\Database_Day10_SQL_CLR\obj\Debug\refactor.xml
+E:\.Net ITI Training\Backend\Database ITI - SQL Server ITI - eng-rami\Queries\Database_Day10_SQL_CLR\Database_Day10_SQL_CLR\obj\Debug\postdeploy.sql
+E:\.Net ITI Training\Backend\Database ITI - SQL Server ITI - eng-rami\Queries\Database_Day10_SQL_CLR\Database_Day10_SQL_CLR\obj\Debug\predeploy.sql

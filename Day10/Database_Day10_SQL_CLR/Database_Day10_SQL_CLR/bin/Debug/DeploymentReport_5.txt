@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [Database_Day10_SQL_CLR] (Assembly)
+     Create
+       [Database_Day10_SQL_CLR] (Assembly)
+       [dbo].[Circle] (User-Defined Type)
+
+** Supporting actions
+     Drop
+       [dbo].[Sum2Int] (Function)
+     Create
+       [dbo].[Sum2Int] (Function)
